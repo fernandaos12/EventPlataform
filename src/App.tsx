@@ -23,8 +23,8 @@ function App() {
 
   const {data } = useQuery<{lessons: Lesson[]}>(GET_LESSON_QUERY)
 
-  return (
-  <ul>
+  return (  
+  <ul className="text-2xl font-bold text-violet-800">
     {data?.lessons.map(lesson =>{
       return <li key={lesson.id}>{lesson.title}</li>
     })}
