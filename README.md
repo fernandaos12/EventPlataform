@@ -6,5 +6,6 @@ Paginas de Incrição e Listagem de aulas com video ao lado da sidebar
 
 ## Telas
 
-https://github.com/fernandaos12/EventPlataform/blob/master/src/assets/subscribe.png
+![CREATE SUBSCRIBE](https://github.com/fernandaos12/EventPlataform/blob/master/src/assets/subscribe.png)
+
 
